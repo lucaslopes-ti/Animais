@@ -1,0 +1,14 @@
+D:\usuarios\lu.silva\Documents\Animais\Animais\bin\Debug\net9.0\Animais.exe
+D:\usuarios\lu.silva\Documents\Animais\Animais\bin\Debug\net9.0\Animais.deps.json
+D:\usuarios\lu.silva\Documents\Animais\Animais\bin\Debug\net9.0\Animais.runtimeconfig.json
+D:\usuarios\lu.silva\Documents\Animais\Animais\bin\Debug\net9.0\Animais.dll
+D:\usuarios\lu.silva\Documents\Animais\Animais\bin\Debug\net9.0\Animais.pdb
+D:\usuarios\lu.silva\Documents\Animais\Animais\obj\Debug\net9.0\Animais.GeneratedMSBuildEditorConfig.editorconfig
+D:\usuarios\lu.silva\Documents\Animais\Animais\obj\Debug\net9.0\Animais.AssemblyInfoInputs.cache
+D:\usuarios\lu.silva\Documents\Animais\Animais\obj\Debug\net9.0\Animais.AssemblyInfo.cs
+D:\usuarios\lu.silva\Documents\Animais\Animais\obj\Debug\net9.0\Animais.csproj.CoreCompileInputs.cache
+D:\usuarios\lu.silva\Documents\Animais\Animais\obj\Debug\net9.0\Animais.dll
+D:\usuarios\lu.silva\Documents\Animais\Animais\obj\Debug\net9.0\refint\Animais.dll
+D:\usuarios\lu.silva\Documents\Animais\Animais\obj\Debug\net9.0\Animais.pdb
+D:\usuarios\lu.silva\Documents\Animais\Animais\obj\Debug\net9.0\Animais.genruntimeconfig.cache
+D:\usuarios\lu.silva\Documents\Animais\Animais\obj\Debug\net9.0\ref\Animais.dll
