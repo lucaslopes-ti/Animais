@@ -15,4 +15,9 @@ public class Cachorro : Animal // Classe filha : Classe Pai
     {
         Console.WriteLine($"{Nome} - {Raca} está latindo: Au-Au");
     }
+
+    public override void FazerSom()
+    {
+        Console.WriteLine("Som de cachorro");
+    }
 }

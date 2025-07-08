@@ -13,5 +13,16 @@ class Program
 
         gato.Comer();
         gato.Miar();
+
+        List<Animal> animais = new List<Animal>()
+        {
+            new Cachorro;
+            new Gato;
+        };
+
+        foreach (Animal animal in animais)
+        {
+            animal.FazerSom();
+        }
     }
 }

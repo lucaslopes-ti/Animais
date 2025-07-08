@@ -15,4 +15,9 @@ public class Animal
     {
         Console.WriteLine($"{Nome} está comendo");
     }
+
+    public virtual void FazerSom()
+    {
+        Console.WriteLine("Animal fez um som");
+    }
 }
